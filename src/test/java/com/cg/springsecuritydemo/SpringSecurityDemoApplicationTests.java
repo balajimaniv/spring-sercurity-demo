@@ -11,6 +11,8 @@ public class SpringSecurityDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+		System.out.println("Test case executio starts");
 	}
 
 }
